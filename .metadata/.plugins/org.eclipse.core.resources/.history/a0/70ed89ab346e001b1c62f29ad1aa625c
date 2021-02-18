@@ -1,0 +1,8 @@
+<html>
+<body>
+	Empresas cadastradas:
+	
+	<%= nomeEmpresa %>
+	
+</body>
+</html>

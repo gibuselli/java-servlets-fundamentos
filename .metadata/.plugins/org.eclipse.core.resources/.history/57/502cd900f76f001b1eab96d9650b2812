@@ -1,0 +1,7 @@
+<c:url value="/novaEmpresa" var="linkServletNovaEmpresa" />
+<html>
+	<body>
+		<c:
+			Empresa ${ empresa } cadastrada!
+	</body>
+</html>

@@ -1,0 +1,12 @@
+127.0.0.1 - - [01/Feb/2021:23:49:02 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [01/Feb/2021:23:49:06 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [01/Feb/2021:23:49:21 -0300] "GET /formNovaEmpresa HTTP/1.1" 404 778
+127.0.0.1 - - [01/Feb/2021:23:49:38 -0300] "GET /formNovaEmpresa.html HTTP/1.1" 404 783
+127.0.0.1 - - [01/Feb/2021:23:50:02 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [01/Feb/2021:23:50:08 -0300] "GET /formNovaEmpresa.html HTTP/1.1" 404 783
+127.0.0.1 - - [01/Feb/2021:23:50:55 -0300] "GET /gernciador/formNovaEmpresa.html HTTP/1.1" 404 798
+127.0.0.1 - - [01/Feb/2021:23:50:59 -0300] "GET /gernciador/formNovaEmpres HTTP/1.1" 404 792
+127.0.0.1 - - [01/Feb/2021:23:51:02 -0300] "GET /gernciador/formNovaEmpresa HTTP/1.1" 404 793
+127.0.0.1 - - [01/Feb/2021:23:51:41 -0300] "GET /gernciador/formNovaEmpresa.html HTTP/1.1" 404 798
+127.0.0.1 - - [01/Feb/2021:23:51:44 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 268
+127.0.0.1 - - [01/Feb/2021:23:51:47 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 53

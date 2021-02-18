@@ -1,0 +1,11 @@
+<%
+	// scriplet
+	String nomeEmpresa = (String)request.getAttribute("empresa");
+%>
+
+
+<html>
+<body>
+	Empresa ${ empresa } cadastrada!
+</body>
+</html>

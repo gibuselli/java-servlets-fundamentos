@@ -1,0 +1,10 @@
+<%
+
+%>
+
+
+<html>
+<body>
+	Empresa <%= nomeEmpresa %> cadastrada!
+</body>
+</html>

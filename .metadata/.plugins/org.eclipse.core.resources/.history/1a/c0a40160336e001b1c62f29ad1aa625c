@@ -1,0 +1,11 @@
+<%
+	String nomeEmpresa = request.getAttribute("empresa");
+
+%>
+
+
+<html>
+<body>
+	Empresa <%= nomeEmpresa %> cadastrada!
+</body>
+</html>

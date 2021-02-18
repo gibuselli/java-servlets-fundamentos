@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Feb/2021:00:00:14 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [18/Feb/2021:00:00:16 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 515
+127.0.0.1 - - [18/Feb/2021:00:00:18 -0300] "GET /gerenciador/mostraEmpresa?id=1 HTTP/1.1" 200 439
+127.0.0.1 - - [18/Feb/2021:00:00:26 -0300] "POST /gerenciador/alteraEmpresa HTTP/1.1" 302 -
+127.0.0.1 - - [18/Feb/2021:00:00:26 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 515
+127.0.0.1 - - [18/Feb/2021:00:00:28 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 515
+127.0.0.1 - - [18/Feb/2021:00:00:29 -0300] "GET /gerenciador/mostraEmpresa?id=1 HTTP/1.1" 200 439
+127.0.0.1 - - [18/Feb/2021:00:00:33 -0300] "POST /gerenciador/alteraEmpresa HTTP/1.1" 302 -
+127.0.0.1 - - [18/Feb/2021:00:00:33 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 518
+127.0.0.1 - - [18/Feb/2021:00:03:40 -0300] "GET /gerenciador/removeEmpresa?id=1 HTTP/1.1" 302 -
+127.0.0.1 - - [18/Feb/2021:00:03:40 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 359
+127.0.0.1 - - [18/Feb/2021:00:03:40 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+127.0.0.1 - - [18/Feb/2021:00:03:41 -0300] "GET /gerenciador/removeEmpresa?id=2 HTTP/1.1" 302 -
+127.0.0.1 - - [18/Feb/2021:00:03:41 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 202
